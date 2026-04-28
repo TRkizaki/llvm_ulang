@@ -1,0 +1,9 @@
+# Build artifacts
+*.s
+*.o
+*.out
+
+# Compiled binaries (no extension on Linux)
+weekend1/hello
+weekend2/hello_freestanding
+weekend2/hello_minimal
